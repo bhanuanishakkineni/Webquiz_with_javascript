@@ -1,1 +1,1 @@
-To run the html document save the document in any directory. Now save both the css and javascript documents in the same directory. Now copy the directory of html document and paste it in any browser on which you want to run the application.
+My project is a simple online quiz application developed using HTML, CSS and JavaScript. In this application the user will be provided with some questions for which options will be displayed.
