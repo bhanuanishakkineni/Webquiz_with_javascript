@@ -1,1 +1,1 @@
-# Webquiz_with_javascript
+To run the html document save the document in any directory. Now save both the css and javascript documents in the same directory. Now copy the directory of html document and paste it in any browser on which you want to run the application.
